@@ -6,11 +6,12 @@ This project involves analyzing the **Most Streamed Spotify Songs 2023** dataset
 
 ## Objectives  
 
-### Part A: Practical Work (20 Marks)  
-1. Create **five decision-making visualizations** using R.  
-   - These visualizations should support predictive analytics to improve business decision-making for Sony Music’s CMO.  
+### Part A: Using R for visualization 
+1. Create **decision-making visualizations** using R, in which these visualizations should support predictive analytics to improve business decision-making for Sony Music’s CMO.
+2. Covering a wide range of charts, such as: barchart, histogram, scatter plot, boxplot, etc.
 
-### Part B: Report Writing (10 Marks)  
+### Part B: Report 
+
 1. **Data Governance Process:**  
    - Describe the four steps in the data analytics process for data governance.  
    - Highlight features of R that support visualization according to data governance principles.  
@@ -23,29 +24,17 @@ This project involves analyzing the **Most Streamed Spotify Songs 2023** dataset
 
 ## Tools and Technologies  
 
-- **Programming Language:** R  
-- **Libraries Used:** ggplot2, dplyr, tidyr, readr, plotly, RColorBrewer, and others as required.  
-
----
-
-## Repository Structure  
-
-- `data/`: Contains the Spotify 2023 dataset (CSV file).  
-- `r_scripts/`: R scripts used for data cleaning, analysis, and visualization.  
-- `visualizations/`: Generated plots and graphics.  
-- `report/`: Word document (Part B) discussing the analytics process, ethics, and justification.  
-
----
+- **Programming Language:** R 
 
 ## Deliverables  
 
 ### Part A: Using R for visualization
-- Visualizations in R that support decision-making and predictive analytics, some of the examples are: 
-  - Boxplot of Audio Feature.
-  - Distribution of BPM in songs (Histogram).
-  - Total Songs in Playlist Across Different Streaming Service.
-  - Song Performance across Spotify and Deezer Playlists.  
-  - Average Streams by Artist_ Count.
+- Visualizations in R that support decision-making and predictive analytics, in which: 
+  - Visualization 1: Music analysis in Audio Features
+  - Visualization 2: Music analysis in BPM
+  - Visualization 3: Cross-platform analysis
+  - Visualization 4: Artist Impact
+  - Visualization 5: Artist Popularity
 
 ### Part B: Report  
 
